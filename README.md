@@ -1,4 +1,4 @@
-Hi 👋 My name is Marcel Lübben
+Hi 👋 My name is Marcel
 ==============================
 
 C# Developer
